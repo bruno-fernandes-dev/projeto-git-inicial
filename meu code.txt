@@ -1,1 +1,3 @@
-bruno dev
+git status
+
+git add .
